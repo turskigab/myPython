@@ -1,0 +1,12 @@
+
+Python: 3.9
+
+Python packages:
+  py-cord
+  discord_components
+  anime-images-api
+  pymongo
+  pymongo[srv]
+
+Note:
+  You'll also need to add your token in the .env file between the quotes

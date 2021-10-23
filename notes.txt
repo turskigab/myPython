@@ -1,0 +1,34 @@
+
+
+Moderation:
+  [done]ban (optional time)
+  [done]kick
+  [done]mute
+  [done]history
+  [done]warn
+  [done]unban
+  [done]unmute
+  [done]unwarn
+
+ACTIONS:
+  [done]hug
+  [done]kiss
+  [done]kill
+  [done]slap
+
+Utility:
+  [done]nickname (a command that changes the user's nickname)
+  [done]avatar
+  [done]suggest (literally suggestion shit)
+  [done]whois (user info)
+  [done]server (server info)
+  [done]submit (some command to submit fanart)
+  [done]dm bot (show dms a user has made to a bot)
+
+Welcome:
+  [done]Greetings
+
+[done]Embed
+  create
+  edit
+  send
